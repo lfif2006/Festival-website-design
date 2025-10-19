@@ -19,8 +19,6 @@
 ## Скриншоты:
 
 markdown
-<div style="display: flex; gap: 10px;">
-  <img src="images/Glawnaja.png" alt="Описание" width="400"/>
-  <img src="images/FastFancy.png" alt="Описание" width="400"/>
-</div>
+  <img src="images/Glawnaja.png" width="400"/>
+  <img src="images/FastFancy.png" width="400"/>
 
