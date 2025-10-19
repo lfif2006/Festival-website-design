@@ -21,6 +21,6 @@
 markdown
 <div style="display: flex; gap: 10px;">
   <img src="images/Glawnaja.png" alt="Описание" width="400"/>
-  <img src="images/FestFansy.png" alt="Описание" width="400"/>
+  <img src="images/FastFancy.png" alt="Описание" width="400"/>
 </div>
 
