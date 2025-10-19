@@ -19,7 +19,7 @@
 [[Открыть в Figma](https://www.figma.com/design/R0YI7VVeclQTquqY6f75H1/Untitled?node-id=0-1&p=f&t=wGptOSa2A8P0VX5B-0)]
 ## Скриншоты:
 
-<img src="images/startStraniza.png" width="1000"/>
+<h2 align="center"><img src="images/startStraniza.png" width="1000"/> </h2>
 <img src="images/sajavka.png" width="1000"/>
 <img src="images/oldFast.png" width="1000"/>
 
