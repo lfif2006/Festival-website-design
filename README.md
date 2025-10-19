@@ -17,10 +17,11 @@
 
 ## Ссылка на макет в Figma
 [[Открыть в Figma](https://www.figma.com/design/R0YI7VVeclQTquqY6f75H1/Untitled?node-id=0-1&p=f&t=wGptOSa2A8P0VX5B-0)]
-## Скриншоты:
+## Скриншоты
 
 <h2 align="center"><img src="images/startStraniza.png" width="1000"/> </h2>
-<img src="images/sajavka.png" width="1000"/>
-<img src="images/oldFast.png" width="1000"/>
+На данном скриншоте изображенны: дизайн страницы актуальных фестивалей, информационная страница актуального фестиваля и информационная страница для участников
+<h3 align="center"><img src="images/sajavka.png" width="1000"/> </h3>
+<h4 align="center"><img src="images/oldFast.png" width="1000"/> </h4>
 
 
