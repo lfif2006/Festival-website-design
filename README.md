@@ -19,21 +19,21 @@
 <a href="https://www.figma.com/design/R0YI7VVeclQTquqY6f75H1/Untitled?node-id=0-1&amp;p=f&amp;t=wGptOSa2A8P0VX5B-0">Открыть в Figma</a>
 <h2>Скриншоты </h2>
 
-<h3 align="center">
+<h4 align="center">
   <img src="images/startStraniza.png" width="1000"/>
   <br>
   На данном скриншоте изображены главные страницы, которые содержат информацию об актуальных фестивалях
-</h3>
+</h4>
 
-<h3 align="center">
+<h4 align="center">
   <img src="images/sajavka.png" width="1000"/>
   <br>
   На данном скриншоте изображены страницы для оформления заявки для участия
-</h3>
+</h4>
 
-<h3 align="center">
+<h4 align="center">
   <img src="images/oldFast.png" width="1000"/>
   <br>
   На данном скриншоте изображены страницы с информацией о прошедших фестивалях
-</h3>
+</h4>
 
