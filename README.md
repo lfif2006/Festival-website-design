@@ -19,6 +19,6 @@
 ## Скриншоты:
 
 <img src="images/startStraniza.png" width="1000"/>
-<img src="images/sajavka.png" width="1000"/>
+<img src="images/sajavka.jpg width="1000"/>
 
 
