@@ -18,5 +18,9 @@
 [[Открыть в Figma](https://www.figma.com/design/R0YI7VVeclQTquqY6f75H1/Untitled?node-id=0-1&p=f&t=wGptOSa2A8P0VX5B-0)]
 ## Скриншоты:
 
-<img src="images/Glawnaja.png" alt="Описание" width="400"/>
+markdown
+<div style="display: flex; gap: 10px;">
+  <img src="images/Glawnaja.png" alt="Описание" width="400"/>
+  <img src="images/Glawnaja.png" alt="Описание" width="400"/>
+</div>
 
