@@ -17,7 +17,7 @@
 ## Ссылка на макет в Figma
 [[Открыть в Figma](https://www.figma.com/design/R0YI7VVeclQTquqY6f75H1/Untitled?node-id=0-1&p=f&t=wGptOSa2A8P0VX5B-0)]
 ## Скриншоты:
-markdown
-<img src="images/Glawnaja.png" width="300"/>
-<img src="images/FastFancy.png" width="200"/>
+
+<img src="images/startStraniza.png" width="400"/>
+
 
