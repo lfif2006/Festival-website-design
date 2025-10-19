@@ -19,7 +19,7 @@
 ## Скриншоты:
 
 markdown
-  <img src="images/Glawnaja.png" width="400"/>
+  <img src="images/Glawnaja.png" width="300"/>
 markdown
-  <img src="images/FastFancy.png" width="400"/>
+  <img src="images/FastFancy.png" width="300"/>
 
