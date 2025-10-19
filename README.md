@@ -21,5 +21,5 @@
 markdown
   <img src="images/Glawnaja.png" width="300"/>
 markdown
-  <img src="images/FastFancy.png" width="100"/>
+  <img src="images/FastFancy.png" width="300"/>
 
